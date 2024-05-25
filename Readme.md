@@ -1,5 +1,4 @@
-# SpringBoot-Project-Cardian(A803)
-스프링부트 + JPA_Cardian
+# Cardian
 
 ## 🖥 프로젝트 소개
 > **소비 습관에 기반하여 보유 중인 카드의 혜택을 효율적으로 받을 수 있게 도와주는 서비스**
@@ -18,8 +17,6 @@
 5. 카드별 혜택받은 금액 조회
 6. 소비 패턴 분석을 통해 혜택을 더 볼 수 있는 카드 조회
 7. 사용자의 연봉에 따른연말정산 기준 달성여부 제공 및 달성여부에 따른 결과 제공
-
-## 목차
 
 
 ## 📆 개발 기간
@@ -40,20 +37,19 @@
 * 정여민 : AWS Lightsail, Docker, Jenkins 를 사용한 CI/CD 구축
 
 ## 기술 스택 
-![기술_스택](/uploads/79b9617ada50a5b2ebf2709f47fe17c3/기술_스택.PNG)
+![기술스택](https://github.com/mj0107/cardian/assets/61671704/614683f6-f3e3-4f83-a56e-c73a0be99abe)
 
 ## README
 
 ### Cardian
 #### BE
-[Cardian BE Readme 보러가기](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A803/-/blob/master/BackEnd/cardian/ReadMe.md?ref_type=heads)
+[Cardian BE Readme 보러가기](BackEnd/cardian/ReadMe.md)
 
 #### FE
-[Cardian FE Readme 보러가기](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A803/-/blob/master/FrontEnd/README.md?ref_type=heads
-)
+[Cardian FE Readme 보러가기](FrontEnd/README.md)
 
 ### Card Company
-[Card Company BE Readme 보러가기](https://lab.ssafy.com/s10-webmobile1-sub2/S10P12A803/-/blob/master/BackEnd/cardcompany/README.md?ref_type=heads)
+[Card Company BE Readme 보러가기](BackEnd/cardcompany/README.md)
 
 
 
