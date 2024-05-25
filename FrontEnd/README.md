@@ -57,42 +57,42 @@
 
 ### 로그인
 <p align="center">
-  <img src="/uploads/167c0dac6b7b062e6568fc22a5e5effa/login.gif" width="300">
+  <img src="https://github.com/mj0107/cardian/assets/61671704/36a36982-7e53-42d0-b0d6-764b66cf9cec" width="300">
 </p>
 
 ### 홈
 <p align="center">
-  <img src="/uploads/708e18a02328849c186628bfc03022fc/home.gif" width="300">
+  <img src="https://github.com/mj0107/cardian/assets/61671704/6e341813-aca8-4740-81cf-a94193ab5e45" width="300">
 </p>
 
 ### 카드 이용내역 및 혜택
 <p align="center">
-  <img src="/uploads/787c717d84096f48cb2867d1964cb325/detail.gif" width="300">
+  <img src="https://github.com/mj0107/cardian/assets/61671704/d1b0d856-2b30-4fdc-bfce-1c38bde84771" width="300">
 </p>
 
 ### 매장별 혜택 검색
 <p align="center">
-  <img src="/uploads/fb4b5f3f4757d451f89d7ea3523fca03/categorysearch.gif" width="300">
+  <img src="https://github.com/mj0107/cardian/assets/61671704/f526fcb2-9005-4a04-881a-3a358fa192b6" width="300">
 </p>
 
 ### 카테고리 별 통계
 <p align="center">
-  <img src="/uploads/435cc0d7c6532330ee74a4911655333e/analysiscategory.gif" width="300">
+  <img src="https://github.com/mj0107/cardian/assets/61671704/c9e1fc0d-c22a-4cc7-9840-9a93a4c748d8" width="300">
 </p>
 
 ### 연말정산
 <p align="center">
-  <img src="/uploads/65b5bb6644ab74fb705be0a8ed5d4fbf/settlement.gif" width="300">
+  <img src="https://github.com/mj0107/cardian/assets/61671704/1b2079da-24a1-433c-9707-0c3dd7ab4632" width="300">
 </p>
 
 ### 카테고리 별 카드 추천
 <p align="center">
-  <img src="/uploads/6682e9d00e1e4e0ea13a23419ab2fc6c/recommend.gif" width="300">
+  <img src="https://github.com/mj0107/cardian/assets/61671704/b50a0be5-f7c2-4918-848f-b6529c560e67" width="300">
 </p>
 
 ### 전체메뉴
 <p align="center">
-  <img src="/uploads/b6d04e50ce86198183f44c483a83baec/menu.png" width="300">
+  <img src="https://github.com/mj0107/cardian/assets/61671704/cbeaf2da-501d-40c9-a838-70b5bfa7703b" width="300">
 </p>
 
 ## 프로젝트 구조
